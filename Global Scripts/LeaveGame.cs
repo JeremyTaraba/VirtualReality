@@ -13,6 +13,7 @@ public class LeaveGame : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        // do KeyCode.Escape to use esc key instead of "b"
          if (Input.GetKeyDown ("b")) {
             #if UNITY_EDITOR
                 UnityEditor.EditorApplication.isPlaying = false;
