@@ -1,5 +1,5 @@
 # Virtual Theater 
-## Created in Unity.
+** Created in Unity **
 
 - This directory only contains the scripts written for the project, not the assets or materials used.
 - This project follows multiple Virtual Reality tips and tricks I learned in my VR class.
