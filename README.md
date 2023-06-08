@@ -12,7 +12,9 @@ The Virtual Reality Theater offers the following features:
 ## Screenshots
 
 ![theater](https://jeremytaraba.github.io/homepage_images/VirtualTheaterScreen.jpg)
+
 ![posters](https://jeremytaraba.github.io/homepage_images/VirtualTheaterPosters.jpg)
+
 ![controls](https://jeremytaraba.github.io/homepage_images/VirtualTheaterControls.jpg)
 
 
